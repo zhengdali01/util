@@ -1,4 +1,4 @@
-package com.inspur.ykj.utils;
+package com.github.xjs.util;
 
 import java.io.IOException;
 import java.net.SocketTimeoutException;
